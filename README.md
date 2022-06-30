@@ -6,5 +6,5 @@
 
 @vjtagaltera @pyhdl18 @mqflow @pyhdl19 @pyhdl20 @pyhdl21 @pyhdl22 
 
-@awsproj @haproj
+@awsproj @haproj @pydeeplearn
 

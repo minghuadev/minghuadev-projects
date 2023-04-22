@@ -8,5 +8,5 @@
 
 @awsproj @haproj @pydeeplearn @cncproj
 
-@awsproj22
+@awsproj22 @awsproj23
 
